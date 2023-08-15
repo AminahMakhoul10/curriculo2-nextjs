@@ -1,0 +1,35 @@
+.titulo{
+    color: #ffffff;
+}
+
+.cabecalho{
+    background-color: #98336c;
+    background: linear-gradient(90deg, rgba(72,98,136,1) 0%, rgba(152,51,108,0.7) 100%), url("/fundo.png") no-repeat;
+    text-align: center;
+    background-size: cover;
+    min-height: 44rem;
+    /*text-align: center;
+    background-color: rgb(204, 73, 95);
+    background: rgb(145, 58, 180);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.7273109927564776) 0%,
+     rgba(153, 15, 100, 0.442) 100%, rgba(0,212,255,1) 100%), url("fundo.png") no-repeat;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+  
+.perfil{
+    border: 2px;
+    border-radius: 50%;
+    margin: 4rem;
+    width: 25%;
+}
+  
+.contato{
+    padding: 0.7rem;
+    display: inline-block;
+    margin-right: 20px;
+    
+    
+    
+}
